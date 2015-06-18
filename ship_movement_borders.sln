@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ship_movement_borders", "ship_movement_borders\ship_movement_borders\ship_movement_borders.csproj", "{946C651F-86A2-4507-8878-54E6116C669E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ship_movement_bordersContent", "ship_movement_borders\ship_movement_bordersContent\ship_movement_bordersContent.contentproj", "{286E82DC-FBAB-4490-88FD-E5C6B50EFC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946C651F-86A2-4507-8878-54E6116C669E}.Debug|x86.ActiveCfg = Debug|x86
+		{946C651F-86A2-4507-8878-54E6116C669E}.Debug|x86.Build.0 = Debug|x86
+		{946C651F-86A2-4507-8878-54E6116C669E}.Release|x86.ActiveCfg = Release|x86
+		{946C651F-86A2-4507-8878-54E6116C669E}.Release|x86.Build.0 = Release|x86
+		{286E82DC-FBAB-4490-88FD-E5C6B50EFC5F}.Debug|x86.ActiveCfg = Debug|x86
+		{286E82DC-FBAB-4490-88FD-E5C6B50EFC5F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
